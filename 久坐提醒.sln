@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "久坐提醒", "久坐提醒.csproj", "{0BAC867B-995F-4BD7-99AB-E2EB54B41B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BAC867B-995F-4BD7-99AB-E2EB54B41B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAC867B-995F-4BD7-99AB-E2EB54B41B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAC867B-995F-4BD7-99AB-E2EB54B41B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAC867B-995F-4BD7-99AB-E2EB54B41B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6562489D-011A-4192-BB8C-ACAC053CEFE0}
+	EndGlobalSection
+EndGlobal
